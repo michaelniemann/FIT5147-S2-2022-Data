@@ -1,0 +1,59 @@
+{
+	"type": "FeatureCollection",
+	"name": "state_boundaries",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:EPSG::4283"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 1,
+				"name": "Queensland boundary",
+				"address": "Australia",
+				"type": 1,
+				"img": ""
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+			    "coordinates": [[[[141,-29],
+					      [141,-26.5],
+					      [138,-26.5],
+					      [138,-16.538678],
+					      [140.5,-17],
+					      [142.424985,-10.717555],
+					      [143.854404,-14.494652],
+					      [145.348112,-14.990158],
+					      [146.4,-18.881730],
+					      [148.768401,-20.238147],
+					      [153.4,-25.553345],
+					      [154.05225,-28.150835],
+					      [151.548495,-29],
+					      [149,-29],
+					      [141,-29]]]]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"fid": 2,
+				"name": "Royal Melbourne Zoo",
+				"address": "Parkville",
+				"type": 2,
+				"img": "<img src='./data/images/buildings/zoo.png'></img>"
+			},
+			"geometry": {
+				"type": "MultiPolygon",
+			    "coordinates": [[[[144.951, -37.788],
+					      [144.949, -37.786],
+					      [144.949, -37.784],
+					      [144.951, -37.782],
+					      [144.953, -37.782],
+					      [144.955, -37.784],
+					      [144.951, -37.788]]]]
+			}
+		}]
+}
