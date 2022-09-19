@@ -1,0 +1,587 @@
+[
+{
+      "location": "Bedourie",
+      "locationNo": 4,
+      "RFDSbase": "N",
+      "coord": [
+          187.5149759,
+          775.1578658
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Birdsville",
+      "locationNo": 5,
+      "RFDSbase": "N",
+      "coord": [
+          176.5871017,
+          840.1669495
+      ],
+      "departures": 3,
+      "arrivals": 4,
+      "routesFrom": 1,
+      "routesTo": 2
+   }, 
+{
+      "location": "Blackall",
+      "locationNo": 6,
+      "RFDSbase": "N",
+      "coord": [
+          481.9530756,
+          770.2117926
+      ],
+      "departures": 4,
+      "arrivals": 3,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Boulia",
+      "locationNo": 8,
+      "RFDSbase": "N",
+      "coord": [
+          204.3378385,
+          697.7592967
+      ],
+      "departures": 2,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Brisbane",
+      "locationNo": 10,
+      "RFDSbase": "Y",
+      "coord": [
+          867.5890618,
+          910.5677801
+      ],
+      "departures": 0,
+      "arrivals": 0,
+      "routesFrom": 0,
+      "routesTo": 0
+   }, 
+{
+      "location": "Bundaberg",
+      "locationNo": 11,
+      "RFDSbase": "Y",
+      "coord": [
+          827.3081234,
+          792.3513407
+      ],
+      "departures": 13,
+      "arrivals": 14,
+      "routesFrom": 3,
+      "routesTo": 3
+   }, 
+{
+      "location": "Cairns",
+      "locationNo": 13,
+      "RFDSbase": "Y",
+      "coord": [
+          497.5936793,
+          410.1100312
+      ],
+      "departures": 21,
+      "arrivals": 22,
+      "routesFrom": 3,
+      "routesTo": 4
+   }, 
+{
+      "location": "Charleville",
+      "locationNo": 14,
+      "RFDSbase": "Y",
+      "coord": [
+          523.1391789,
+          864.9800101
+      ],
+      "departures": 10,
+      "arrivals": 18,
+      "routesFrom": 4,
+      "routesTo": 6
+   }, 
+{
+       "location": "Cloncurry",
+       "locationNo": 18,
+       "RFDSbase": "N",
+       "coord": [
+           234.6863718,
+           590.7296018
+       ],
+       "departures": 5,
+       "arrivals": 4,
+       "routesFrom": 1,
+       "routesTo": 1
+},
+    {
+      "location": "Cooktown",
+      "locationNo": 19,
+      "RFDSbase": "N",
+      "coord": [
+          469.3787127,
+          341.6524714
+      ],
+      "departures": 3,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Cunnamulla",
+      "locationNo": 21,
+      "RFDSbase": "N",
+      "coord": [
+          491.4096612,
+          942.0924515
+      ],
+      "departures": 2,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Dysart",
+      "locationNo": 25,
+      "RFDSbase": "N",
+      "coord": [
+          628.6918348,
+          683.7941001
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Emerald",
+      "locationNo": 26,
+      "RFDSbase": "N",
+      "coord": [
+          619.495712,
+          729.1495829
+      ],
+      "departures": 12,
+      "arrivals": 6,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Gayndah",
+      "locationNo": 28,
+      "RFDSbase": "N",
+      "coord": [
+          792.0527608,
+          826.7796639
+      ],
+      "departures": 4,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Gladstone",
+      "locationNo": 29,
+      "RFDSbase": "N",
+      "coord": [
+          772.3514907,
+          743.4224348
+      ],
+      "departures": 0,
+      "arrivals": 8,
+      "routesFrom": 0,
+      "routesTo": 2
+   }, 
+{
+      "location": "Goondiwindi",
+      "locationNo": 30,
+      "RFDSbase": "N",
+      "coord": [
+          726.9891402,
+          965.4081819
+      ],
+      "departures": 3,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Hervey Bay",
+      "locationNo": 31,
+      "RFDSbase": "N",
+      "coord": [
+          855.5833313,
+          812.6599712
+      ],
+      "departures": 0,
+      "arrivals": 11,
+      "routesFrom": 0,
+      "routesTo": 2
+   }, 
+{
+      "location": "Horn Island",
+      "locationNo": 32,
+      "RFDSbase": "N",
+      "coord": [
+          324.0158948,
+          109.8081575
+      ],
+      "departures": 3,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Hughenden",
+      "locationNo": 33,
+      "RFDSbase": "N",
+      "coord": [
+          421.3120007,
+          597.7601852
+      ],
+      "departures": 5,
+      "arrivals": 3,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Julia Creek",
+      "locationNo": 35,
+      "RFDSbase": "N",
+      "coord": [
+          295.5772021,
+          590.7691436
+      ],
+      "departures": 0,
+      "arrivals": 2,
+      "routesFrom": 0,
+      "routesTo": 1
+   }, 
+{
+      "location": "Kingaroy",
+      "locationNo": 37,
+      "RFDSbase": "N",
+      "coord": [
+          803.2706282,
+          872.7775962
+      ],
+      "departures": 9,
+      "arrivals": 2,
+      "routesFrom": 2,
+      "routesTo": 1
+   }, 
+{
+      "location": "Kowanyama",
+      "locationNo": 38,
+      "RFDSbase": "N",
+      "coord": [
+          296.9595361,
+          343.4089606
+      ],
+      "departures": 0,
+      "arrivals": 2,
+      "routesFrom": 0,
+      "routesTo": 1
+   }, 
+{
+      "location": "Longreach",
+      "locationNo": 39,
+      "RFDSbase": "Y",
+      "coord": [
+          423.6460239,
+          722.8148267
+      ],
+      "departures": 4,
+      "arrivals": 3,
+      "routesFrom": 2,
+      "routesTo": 1
+   }, 
+{
+      "location": "Mackay",
+      "locationNo": 40,
+      "RFDSbase": "N",
+      "coord": [
+          670.0208075,
+          614.7737312
+      ],
+      "departures": 13,
+      "arrivals": 15,
+      "routesFrom": 2,
+      "routesTo": 4
+   }, 
+{
+      "location": "Maroochydore/Sunshine Coast",
+      "locationNo": 42,
+      "RFDSbase": "N",
+      "coord": [
+          865.889453,
+          873.9995549
+      ],
+      "departures": 0,
+      "arrivals": 2,
+      "routesFrom": 0,
+      "routesTo": 1
+   }, 
+{
+      "location": "Miles Airport",
+      "locationNo": 44,
+      "RFDSbase": "N",
+      "coord": [
+          719.4250558,
+          883.476063
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Monto",
+      "locationNo": 46,
+      "RFDSbase": "N",
+      "coord": [
+          766.1949897,
+          792.1821011
+      ],
+      "departures": 3,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Moranbah",
+      "locationNo": 47,
+      "RFDSbase": "N",
+      "coord": [
+          614.3428035,
+          657.0741409
+      ],
+      "departures": 3,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Mornington Island",
+      "locationNo": 49,
+      "RFDSbase": "N",
+      "coord": [
+          167.4348704,
+          399.5960667
+      ],
+      "departures": 2,
+      "arrivals": 3,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Mount Isa",
+      "locationNo": 50,
+      "RFDSbase": "Y",
+      "coord": [
+          183.7313784,
+          590.7088831
+      ],
+      "departures": 30,
+      "arrivals": 34,
+      "routesFrom": 7,
+      "routesTo": 6
+   }, 
+{
+      "location": "Moura",
+      "locationNo": 52,
+      "RFDSbase": "N",
+      "coord": [
+          710.6582426,
+          778.6984583
+      ],
+      "departures": 3,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Normanton",
+      "locationNo": 53,
+      "RFDSbase": "N",
+      "coord": [
+          262.9761489,
+          448.4867141
+      ],
+      "departures": 10,
+      "arrivals": 9,
+      "routesFrom": 1,
+      "routesTo": 3
+   }, 
+{
+      "location": "Osborne Mine",
+      "locationNo": 55,
+      "RFDSbase": "N",
+      "coord": [
+          237.2348482,
+          658.2196542
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Proserpine / Whitsunday Coast",
+      "locationNo": 58,
+      "RFDSbase": "N",
+      "coord": [
+          638.2129106,
+          582.3388566
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Rockhampton",
+      "locationNo": 60,
+      "RFDSbase": "Y",
+      "coord": [
+          734.7800715,
+          719.7208396
+      ],
+      "departures": 33,
+      "arrivals": 29,
+      "routesFrom": 9,
+      "routesTo": 8
+   }, 
+{
+      "location": "Roma",
+      "locationNo": 61,
+      "RFDSbase": "Y",
+      "coord": [
+          649.6719001,
+          870.9775681
+      ],
+      "departures": 2,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Taroom",
+      "locationNo": 66,
+      "RFDSbase": "N",
+      "coord": [
+          699.6912075,
+          827.4032686
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Thargomindah",
+      "locationNo": 68,
+      "RFDSbase": "N",
+      "coord": [
+          400.5748398,
+          939.8940862
+      ],
+      "departures": 3,
+      "arrivals": 3,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Theodore",
+      "locationNo": 69,
+      "RFDSbase": "N",
+      "coord": [
+          715.6637165,
+          796.959043
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }, 
+{
+      "location": "Toowoomba",
+      "locationNo": 70,
+      "RFDSbase": "N",
+      "coord": [
+          807.0908375,
+          918.6190279
+      ],
+      "departures": 10,
+      "arrivals": 16,
+      "routesFrom": 3,
+      "routesTo": 5
+   }, 
+{
+      "location": "Townsville",
+      "locationNo": 71,
+      "RFDSbase": "Y",
+      "coord": [
+          549.0202627,
+          523.2066422
+      ],
+      "departures": 48,
+      "arrivals": 50,
+      "routesFrom": 9,
+      "routesTo": 6
+   }, 
+{
+      "location": "Weipa",
+      "locationNo": 73,
+      "RFDSbase": "N",
+      "coord": [
+          305.73832,
+          209.68017
+      ],
+      "departures": 3,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Wellcamp Airport",
+      "locationNo": 74,
+      "RFDSbase": "N",
+      "coord": [
+          800.9117247,
+          919.3668489
+      ],
+      "departures": 2,
+      "arrivals": 5,
+      "routesFrom": 1,
+      "routesTo": 2
+   }, 
+{
+      "location": "Winton",
+      "locationNo": 76,
+      "RFDSbase": "N",
+      "coord": [
+          363.9766511,
+          671.5574492
+      ],
+      "departures": 2,
+      "arrivals": 2,
+      "routesFrom": 1,
+      "routesTo": 1
+   }, 
+{
+      "location": "Yowah",
+      "locationNo": 78,
+      "RFDSbase": "N",
+      "coord": [
+          441.3961408,
+          938.1650845
+      ],
+      "departures": 2,
+      "arrivals": 0,
+      "routesFrom": 1,
+      "routesTo": 0
+   }
+]

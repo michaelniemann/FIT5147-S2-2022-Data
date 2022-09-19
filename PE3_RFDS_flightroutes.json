@@ -1,0 +1,717 @@
+[
+  {
+     "routeId": 2,
+      "routeDetail": "2_Bedourie_Mount Isa",
+      "start": "Bedourie",
+      "end": "Mount Isa",
+      "routeCoords": {
+          "startCoords": [ 187.5149759,775.1578658 ],
+          "endCoords": [ 183.7313784,590.7088831 ] 
+          }, 
+      "avgDuration": 64,
+      "flights": 2,
+      "distance": 430.0597982 
+  },
+  {
+     "routeId": 3,
+      "routeDetail": "3_Birdsville_Charleville",
+      "start": "Birdsville",
+      "end": "Charleville",
+      "routeCoords": {
+          "startCoords": [ 176.5871017,840.1669495 ],
+          "endCoords": [ 523.1391789,864.9800101 ] 
+          }, 
+      "avgDuration": 38,
+      "flights": 5,
+      "distance": 691.7308908 
+  },
+  {
+     "routeId": 4,
+      "routeDetail": "4_Blackall_Rockhampton",
+      "start": "Blackall",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 481.9530756,770.2117926 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 84,
+      "flights": 7,
+      "distance": 525.5917008 
+  },
+  {
+     "routeId": 5,
+      "routeDetail": "5_Boulia_Mount Isa",
+      "start": "Boulia",
+      "end": "Mount Isa",
+      "routeCoords": {
+          "startCoords": [ 204.3378385,697.7592967 ],
+          "endCoords": [ 183.7313784,590.7088831 ] 
+          }, 
+      "avgDuration": 66,
+      "flights": 4,
+      "distance": 253.1341825 
+  },
+  {
+     "routeId": 6,
+      "routeDetail": "6_Bundaberg_Gladstone",
+      "start": "Bundaberg",
+      "end": "Gladstone",
+      "routeCoords": {
+          "startCoords": [ 827.3081234,792.3513407 ],
+          "endCoords": [ 772.3514907,743.4224348 ] 
+          }, 
+      "avgDuration": 45,
+      "flights": 2,
+      "distance": 159.1123359 
+  },
+  {
+     "routeId": 7,
+      "routeDetail": "7_Bundaberg_Hervey Bay",
+      "start": "Bundaberg",
+      "end": "Hervey Bay",
+      "routeCoords": {
+          "startCoords": [ 827.3081234,792.3513407 ],
+          "endCoords": [ 855.5833313,812.6599712 ] 
+          }, 
+      "avgDuration": 52,
+      "flights": 9,
+      "distance": 73.90074715 
+  },
+  {
+     "routeId": 8,
+      "routeDetail": "8_Bundaberg_Rockhampton",
+      "start": "Bundaberg",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 827.3081234,792.3513407 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 86,
+      "flights": 9,
+      "distance": 252.3631299 
+  },
+  {
+     "routeId": 9,
+      "routeDetail": "9_Cairns_Kowanyama",
+      "start": "Cairns",
+      "end": "Kowanyama",
+      "routeCoords": {
+          "startCoords": [ 497.5936793,410.1100312 ],
+          "endCoords": [ 296.9595361,343.4089606 ] 
+          }, 
+      "avgDuration": 60,
+      "flights": 2,
+      "distance": 454.4531729 
+  },
+  {
+     "routeId": 10,
+      "routeDetail": "10_Cairns_Townsville",
+      "start": "Cairns",
+      "end": "Townsville",
+      "routeCoords": {
+          "startCoords": [ 497.5936793,410.1100312 ],
+          "endCoords": [ 549.0202627,523.2066422 ] 
+          }, 
+      "avgDuration": 113,
+      "flights": 30,
+      "distance": 285.0463072 
+  },
+  {
+     "routeId": 11,
+      "routeDetail": "11_Cairns_Weipa",
+      "start": "Cairns",
+      "end": "Weipa",
+      "routeCoords": {
+          "startCoords": [ 497.5936793,410.1100312 ],
+          "endCoords": [ 305.73832,209.68017 ] 
+          }, 
+      "avgDuration": 142,
+      "flights": 5,
+      "distance": 622.2975854 
+  },
+  {
+     "routeId": 13,
+      "routeDetail": "13_Charleville_Cunnamulla",
+      "start": "Charleville",
+      "end": "Cunnamulla",
+      "routeCoords": {
+          "startCoords": [ 523.1391789,864.9800101 ],
+          "endCoords": [ 491.4096612,942.0924515 ] 
+          }, 
+      "avgDuration": 43,
+      "flights": 4,
+      "distance": 190.3293064 
+  },
+  {
+     "routeId": 14,
+      "routeDetail": "14_Charleville_Thargomindah",
+      "start": "Charleville",
+      "end": "Thargomindah",
+      "routeCoords": {
+          "startCoords": [ 523.1391789,864.9800101 ],
+          "endCoords": [ 400.5748398,939.8940862 ] 
+          }, 
+      "avgDuration": 107,
+      "flights": 6,
+      "distance": 298.0891978 
+  },
+  {
+     "routeId": 15,
+      "routeDetail": "15_Charleville_Toowoomba",
+      "start": "Charleville",
+      "end": "Toowoomba",
+      "routeCoords": {
+          "startCoords": [ 523.1391789,864.9800101 ],
+          "endCoords": [ 807.0908375,918.6190279 ] 
+          }, 
+      "avgDuration": 104,
+      "flights": 9,
+      "distance": 574.5324442 
+  },
+  {
+     "routeId": 16,
+      "routeDetail": "16_Cloncurry_Mount Isa",
+      "start": "Cloncurry",
+      "end": "Mount Isa",
+      "routeCoords": {
+          "startCoords": [ 234.6863718,590.7296018 ],
+          "endCoords": [ 183.7313784,590.7088831 ] 
+          }, 
+      "avgDuration": 69,
+      "flights": 9,
+      "distance": 105.662193 
+  },
+  {
+     "routeId": 17,
+      "routeDetail": "17_Cooktown_Cairns",
+      "start": "Cooktown",
+      "end": "Cairns",
+      "routeCoords": {
+          "startCoords": [ 469.3787127,341.6524714 ],
+          "endCoords": [ 497.5936793,410.1100312 ] 
+          }, 
+      "avgDuration": 37,
+      "flights": 3,
+      "distance": 170.5160743 
+  },
+  {
+     "routeId": 19,
+      "routeDetail": "19_Dysart_Mackay",
+      "start": "Dysart",
+      "end": "Mackay",
+      "routeCoords": {
+          "startCoords": [ 628.6918348,683.7941001 ],
+          "endCoords": [ 670.0208075,614.7737312 ] 
+          }, 
+      "avgDuration": 61,
+      "flights": 2,
+      "distance": 181.9663976 
+  },
+  {
+     "routeId": 20,
+      "routeDetail": "20_Emerald_Rockhampton",
+      "start": "Emerald",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 619.495712,729.1495829 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 90,
+      "flights": 18,
+      "distance": 235.3874467 
+  },
+  {
+     "routeId": 21,
+      "routeDetail": "21_Gayndah_Bundaberg",
+      "start": "Gayndah",
+      "end": "Bundaberg",
+      "routeCoords": {
+          "startCoords": [ 792.0527608,826.7796639 ],
+          "endCoords": [ 827.3081234,792.3513407 ] 
+          }, 
+      "avgDuration": 35,
+      "flights": 4,
+      "distance": 106.9358846 
+  },
+  {
+     "routeId": 22,
+      "routeDetail": "22_Goondiwindi_Wellcamp Airport",
+      "start": "Goondiwindi",
+      "end": "Wellcamp Airport",
+      "routeCoords": {
+          "startCoords": [ 726.9891402,965.4081819 ],
+          "endCoords": [ 800.9117247,919.3668489 ] 
+          }, 
+      "avgDuration": 147,
+      "flights": 3,
+      "distance": 180.0791331 
+  },
+  {
+     "routeId": 23,
+      "routeDetail": "23_Horn Island_Cairns",
+      "start": "Horn Island",
+      "end": "Cairns",
+      "routeCoords": {
+          "startCoords": [ 324.0158948,109.8081575 ],
+          "endCoords": [ 497.5936793,410.1100312 ] 
+          }, 
+      "avgDuration": 36,
+      "flights": 3,
+      "distance": 793.45933 
+  },
+  {
+     "routeId": 24,
+      "routeDetail": "24_Hughenden_Townsville",
+      "start": "Hughenden",
+      "end": "Townsville",
+      "routeCoords": {
+          "startCoords": [ 421.3120007,597.7601852 ],
+          "endCoords": [ 549.0202627,523.2066422 ] 
+          }, 
+      "avgDuration": 111,
+      "flights": 8,
+      "distance": 317.6589741 
+  },
+  {
+     "routeId": 25,
+      "routeDetail": "25_Kingaroy_Toowoomba",
+      "start": "Kingaroy",
+      "end": "Toowoomba",
+      "routeCoords": {
+          "startCoords": [ 803.2706282,872.7775962 ],
+          "endCoords": [ 807.0908375,918.6190279 ] 
+          }, 
+      "avgDuration": 106,
+      "flights": 7,
+      "distance": 107.1318429 
+  },
+  {
+     "routeId": 26,
+      "routeDetail": "26_Kingaroy_Wellcamp Airport",
+      "start": "Kingaroy",
+      "end": "Wellcamp Airport",
+      "routeCoords": {
+          "startCoords": [ 803.2706282,872.7775962 ],
+          "endCoords": [ 800.9117247,919.3668489 ] 
+          }, 
+      "avgDuration": 191,
+      "flights": 2,
+      "distance": 108.7092626 
+  },
+  {
+     "routeId": 27,
+      "routeDetail": "27_Longreach_Rockhampton",
+      "start": "Longreach",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 423.6460239,722.8148267 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 86,
+      "flights": 5,
+      "distance": 632.8146552 
+  },
+  {
+     "routeId": 28,
+      "routeDetail": "28_Longreach_Roma",
+      "start": "Longreach",
+      "end": "Roma",
+      "routeCoords": {
+          "startCoords": [ 423.6460239,722.8148267 ],
+          "endCoords": [ 649.6719001,870.9775681 ] 
+          }, 
+      "avgDuration": 101,
+      "flights": 2,
+      "distance": 570.3926804 
+  },
+  {
+     "routeId": 29,
+      "routeDetail": "29_Mackay_Rockhampton",
+      "start": "Mackay",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 670.0208075,614.7737312 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 87,
+      "flights": 4,
+      "distance": 278.3748051 
+  },
+  {
+     "routeId": 30,
+      "routeDetail": "30_Mackay_Townsville",
+      "start": "Mackay",
+      "end": "Townsville",
+      "routeCoords": {
+          "startCoords": [ 670.0208075,614.7737312 ],
+          "endCoords": [ 549.0202627,523.2066422 ] 
+          }, 
+      "avgDuration": 114,
+      "flights": 19,
+      "distance": 329.9813601 
+  },
+  {
+     "routeId": 31,
+      "routeDetail": "31_Miles Airport_Toowoomba",
+      "start": "Miles Airport",
+      "end": "Toowoomba",
+      "routeCoords": {
+          "startCoords": [ 719.4250558,883.476063 ],
+          "endCoords": [ 807.0908375,918.6190279 ] 
+          }, 
+      "avgDuration": 113,
+      "flights": 2,
+      "distance": 191.2758359 
+  },
+  {
+     "routeId": 32,
+      "routeDetail": "32_Monto_Bundaberg",
+      "start": "Monto",
+      "end": "Bundaberg",
+      "routeCoords": {
+          "startCoords": [ 766.1949897,792.1821011 ],
+          "endCoords": [ 827.3081234,792.3513407 ] 
+          }, 
+      "avgDuration": 35,
+      "flights": 3,
+      "distance": 122.8600304 
+  },
+  {
+     "routeId": 33,
+      "routeDetail": "33_Moranbah_Mackay",
+      "start": "Moranbah",
+      "end": "Mackay",
+      "routeCoords": {
+          "startCoords": [ 614.3428035,657.0741409 ],
+          "endCoords": [ 670.0208075,614.7737312 ] 
+          }, 
+      "avgDuration": 64,
+      "flights": 3,
+      "distance": 151.2760038 
+  },
+  {
+     "routeId": 34,
+      "routeDetail": "34_Mornington Island_Normanton",
+      "start": "Mornington Island",
+      "end": "Normanton",
+      "routeCoords": {
+          "startCoords": [ 167.4348704,399.5960667 ],
+          "endCoords": [ 262.9761489,448.4867141 ] 
+          }, 
+      "avgDuration": 84,
+      "flights": 2,
+      "distance": 232.1979909 
+  },
+  {
+     "routeId": 35,
+      "routeDetail": "35_Mount Isa_Birdsville",
+      "start": "Mount Isa",
+      "end": "Birdsville",
+      "routeCoords": {
+          "startCoords": [ 183.7313784,590.7088831 ],
+          "endCoords": [ 176.5871017,840.1669495 ] 
+          }, 
+      "avgDuration": 23,
+      "flights": 2,
+      "distance": 581.7219293 
+  },
+  {
+     "routeId": 38,
+      "routeDetail": "38_Mount Isa_Julia Creek",
+      "start": "Mount Isa",
+      "end": "Julia Creek",
+      "routeCoords": {
+          "startCoords": [ 183.7313784,590.7088831 ],
+          "endCoords": [ 295.5772021,590.7691436 ] 
+          }, 
+      "avgDuration": 55,
+      "flights": 2,
+      "distance": 231.9256522 
+  },
+  {
+     "routeId": 39,
+      "routeDetail": "39_Mount Isa_Mornington Island",
+      "start": "Mount Isa",
+      "end": "Mornington Island",
+      "routeCoords": {
+          "startCoords": [ 183.7313784,590.7088831 ],
+          "endCoords": [ 167.4348704,399.5960667 ] 
+          }, 
+      "avgDuration": 63,
+      "flights": 3,
+      "distance": 446.8363785 
+  },
+  {
+     "routeId": 40,
+      "routeDetail": "40_Mount Isa_Normanton",
+      "start": "Mount Isa",
+      "end": "Normanton",
+      "routeCoords": {
+          "startCoords": [ 183.7313784,590.7088831 ],
+          "endCoords": [ 262.9761489,448.4867141 ] 
+          }, 
+      "avgDuration": 84,
+      "flights": 14,
+      "distance": 370.7209767 
+  },
+  {
+     "routeId": 41,
+      "routeDetail": "41_Mount Isa_Townsville",
+      "start": "Mount Isa",
+      "end": "Townsville",
+      "routeCoords": {
+          "startCoords": [ 183.7313784,590.7088831 ],
+          "endCoords": [ 549.0202627,523.2066422 ] 
+          }, 
+      "avgDuration": 127,
+      "flights": 26,
+      "distance": 776.9658213 
+  },
+  {
+     "routeId": 42,
+      "routeDetail": "42_Moura_Rockhampton",
+      "start": "Moura",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 710.6582426,778.6984583 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 90,
+      "flights": 3,
+      "distance": 145.9067236 
+  },
+  {
+     "routeId": 44,
+      "routeDetail": "44_Osborne Mine_Mount Isa",
+      "start": "Osborne Mine",
+      "end": "Mount Isa",
+      "routeCoords": {
+          "startCoords": [ 237.2348482,658.2196542 ],
+          "endCoords": [ 183.7313784,590.7088831 ] 
+          }, 
+      "avgDuration": 80,
+      "flights": 2,
+      "distance": 192.2527841 
+  },
+  {
+     "routeId": 45,
+      "routeDetail": "45_Proserpine / Whitsunday Coast_Townsville",
+      "start": "Proserpine / Whitsunday Coast",
+      "end": "Townsville",
+      "routeCoords": {
+          "startCoords": [ 638.2129106,582.3388566 ],
+          "endCoords": [ 549.0202627,523.2066422 ] 
+          }, 
+      "avgDuration": 119,
+      "flights": 2,
+      "distance": 231.4321706 
+  },
+  {
+     "routeId": 49,
+      "routeDetail": "49_Rockhampton_Gladstone",
+      "start": "Rockhampton",
+      "end": "Gladstone",
+      "routeCoords": {
+          "startCoords": [ 734.7800715,719.7208396 ],
+          "endCoords": [ 772.3514907,743.4224348 ] 
+          }, 
+      "avgDuration": 46,
+      "flights": 6,
+      "distance": 94.19851972 
+  },
+  {
+     "routeId": 50,
+      "routeDetail": "50_Rockhampton_Hervey Bay",
+      "start": "Rockhampton",
+      "end": "Hervey Bay",
+      "routeCoords": {
+          "startCoords": [ 734.7800715,719.7208396 ],
+          "endCoords": [ 855.5833313,812.6599712 ] 
+          }, 
+      "avgDuration": 55,
+      "flights": 2,
+      "distance": 326.2357278 
+  },
+  {
+     "routeId": 51,
+      "routeDetail": "51_Rockhampton_Kingaroy",
+      "start": "Rockhampton",
+      "end": "Kingaroy",
+      "routeCoords": {
+          "startCoords": [ 734.7800715,719.7208396 ],
+          "endCoords": [ 803.2706282,872.7775962 ] 
+          }, 
+      "avgDuration": 59,
+      "flights": 2,
+      "distance": 382.4093266 
+  },
+  {
+     "routeId": 54,
+      "routeDetail": "54_Rockhampton_Maroochydore/Sunshine Coast",
+      "start": "Rockhampton",
+      "end": "Maroochydore/Sunshine Coast",
+      "routeCoords": {
+          "startCoords": [ 734.7800715,719.7208396 ],
+          "endCoords": [ 865.889453,873.9995549 ] 
+          }, 
+      "avgDuration": 63,
+      "flights": 2,
+      "distance": 445.7412056 
+  },
+  {
+     "routeId": 55,
+      "routeDetail": "55_Roma_Toowoomba",
+      "start": "Roma",
+      "end": "Toowoomba",
+      "routeCoords": {
+          "startCoords": [ 649.6719001,870.9775681 ],
+          "endCoords": [ 807.0908375,918.6190279 ] 
+          }, 
+      "avgDuration": 117,
+      "flights": 2,
+      "distance": 329.9757843 
+  },
+  {
+     "routeId": 56,
+      "routeDetail": "56_Taroom_Toowoomba",
+      "start": "Taroom",
+      "end": "Toowoomba",
+      "routeCoords": {
+          "startCoords": [ 699.6912075,827.4032686 ],
+          "endCoords": [ 807.0908375,918.6190279 ] 
+          }, 
+      "avgDuration": 132,
+      "flights": 2,
+      "distance": 300.8614342 
+  },
+  {
+     "routeId": 58,
+      "routeDetail": "58_Theodore_Rockhampton",
+      "start": "Theodore",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 715.6637165,796.959043 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 98,
+      "flights": 2,
+      "distance": 184.1596836 
+  },
+  {
+     "routeId": 60,
+      "routeDetail": "60_Toowoomba_Goondiwindi",
+      "start": "Toowoomba",
+      "end": "Goondiwindi",
+      "routeCoords": {
+          "startCoords": [ 807.0908375,918.6190279 ],
+          "endCoords": [ 726.9891402,965.4081819 ] 
+          }, 
+      "avgDuration": 52,
+      "flights": 2,
+      "distance": 190.9207916 
+  },
+  {
+     "routeId": 61,
+      "routeDetail": "61_Toowoomba_Rockhampton",
+      "start": "Toowoomba",
+      "end": "Rockhampton",
+      "routeCoords": {
+          "startCoords": [ 807.0908375,918.6190279 ],
+          "endCoords": [ 734.7800715,719.7208396 ] 
+          }, 
+      "avgDuration": 101,
+      "flights": 2,
+      "distance": 485.7121292 
+  },
+  {
+     "routeId": 63,
+      "routeDetail": "63_Townsville_Cooktown",
+      "start": "Townsville",
+      "end": "Cooktown",
+      "routeCoords": {
+          "startCoords": [ 549.0202627,523.2066422 ],
+          "endCoords": [ 469.3787127,341.6524714 ] 
+          }, 
+      "avgDuration": 42,
+      "flights": 2,
+      "distance": 455.5266636 
+  },
+  {
+     "routeId": 64,
+      "routeDetail": "64_Townsville_Horn Island",
+      "start": "Townsville",
+      "end": "Horn Island",
+      "routeCoords": {
+          "startCoords": [ 549.0202627,523.2066422 ],
+          "endCoords": [ 324.0158948,109.8081575 ] 
+          }, 
+      "avgDuration": 55,
+      "flights": 2,
+      "distance": 1077.22018 
+  },
+  {
+     "routeId": 67,
+      "routeDetail": "67_Townsville_Moranbah",
+      "start": "Townsville",
+      "end": "Moranbah",
+      "routeCoords": {
+          "startCoords": [ 549.0202627,523.2066422 ],
+          "endCoords": [ 614.3428035,657.0741409 ] 
+          }, 
+      "avgDuration": 64,
+      "flights": 2,
+      "distance": 340.1997703 
+  },
+  {
+     "routeId": 69,
+      "routeDetail": "69_Townsville_Normanton",
+      "start": "Townsville",
+      "end": "Normanton",
+      "routeCoords": {
+          "startCoords": [ 549.0202627,523.2066422 ],
+          "endCoords": [ 262.9761489,448.4867141 ] 
+          }, 
+      "avgDuration": 82,
+      "flights": 3,
+      "distance": 625.9742599 
+  },
+  {
+     "routeId": 70,
+      "routeDetail": "70_Townsville_Winton",
+      "start": "Townsville",
+      "end": "Winton",
+      "routeCoords": {
+          "startCoords": [ 549.0202627,523.2066422 ],
+          "endCoords": [ 363.9766511,671.5574492 ] 
+          }, 
+      "avgDuration": 245,
+      "flights": 4,
+      "distance": 516.2463823 
+  },
+  {
+     "routeId": 72,
+      "routeDetail": "72_Wellcamp Airport_Charleville",
+      "start": "Wellcamp Airport",
+      "end": "Charleville",
+      "routeCoords": {
+          "startCoords": [ 800.9117247,919.3668489 ],
+          "endCoords": [ 523.1391789,864.9800101 ] 
+          }, 
+      "avgDuration": 40,
+      "flights": 2,
+      "distance": 562.9827245 
+  },
+  {
+     "routeId": 74,
+      "routeDetail": "74_Yowah_Charleville",
+      "start": "Yowah",
+      "end": "Charleville",
+      "routeCoords": {
+          "startCoords": [ 441.3961408,938.1650845 ],
+          "endCoords": [ 523.1391789,864.9800101 ] 
+          }, 
+      "avgDuration": 40,
+      "flights": 2,
+      "distance": 234.6803885 
+  }
+]
